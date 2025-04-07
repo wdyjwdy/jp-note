@@ -1,0 +1,6 @@
+# Local
+.DS_Store
+
+# Dist
+node_modules
+doc_build/
