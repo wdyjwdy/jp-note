@@ -1,5 +1,7 @@
-.rspress-nav {
-    background-color: transparent;
+@media (min-width: 1280px) {
+    .rspress-nav {
+        background-color: transparent;
+    }
 }
 
 .rspress-doc-footer {
