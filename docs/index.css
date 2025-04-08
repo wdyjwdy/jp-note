@@ -13,3 +13,7 @@
 .rspress-home-feature-card {
     padding: 1em;
 }
+
+:root {
+    --rp-sidebar-width: 200px;
+}
