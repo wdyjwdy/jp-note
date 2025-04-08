@@ -6,7 +6,7 @@
 - 「もらう」：我收到，别人收到
 - 「くれる」：别人给我
 
-![give](../../imgs/give.svg)
+![give](/vocab-compare-give.svg)
 
 ```
 1. 我和太郎（名词）

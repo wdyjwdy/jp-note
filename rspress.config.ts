@@ -5,8 +5,8 @@ export default defineConfig({
   base: "/jp-note",
   globalStyles: path.join(__dirname, 'docs/index.css'),
   root: path.join(__dirname, 'docs'),
-  icon: './imgs/icon.ico',
-  logoText: 'Home',
+  logo: '/logo.png',
+  icon: '/logo.png',
   route: {
     cleanUrls: true,
   },
