@@ -12,4 +12,7 @@ features:
   - title: 词汇
     link: /vocab/compare
     span: 3
+  - title: 学习资料
+    link: /resource/learn
+    span: 3
 ---
