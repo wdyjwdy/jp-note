@@ -18,4 +18,33 @@
 
 :root {
     --rp-sidebar-width: 200px;
+    --rp-nav-height: 60px;
+    --rp-c-bg: whitesmoke;
+    --rp-code-block-bg: white;
+    --rp-c-divider-light: transparent;
+}
+
+.dark {
+    --rp-c-bg: #191d24;
+    --rp-code-block-bg: #111111;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px !important;
+}
+
+/* search-button dark-mode-button */
+.rspress-nav div[class^="rightNav_"] {
+    display: none;
+}
+
+/* toc */
+.rspress-doc-container div[class^="aside-container_"] {
+    padding-top: 60px;
+}
+
+/* toc title */
+#aside-container div {
+    display: none;
 }
